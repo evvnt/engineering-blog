@@ -4,7 +4,7 @@ title:  "Hello Evvnt"
 date:   2022-08-29 15:50:14 -0400
 categories: engineering
 ---
-Welcome to the Evvnt Engineering Blog! This is our hello world introducing Evvnt and what we do. First thing is first, its not a typo! The company name is Evvnt and its pronounced Event. (We don't blame you if you pronounce it like [marwage](https://www.youtube.com/watch?v=3odMTPuzLwY).)
+Welcome to the Evvnt Engineering Blog! This is our hello world introducing Evvnt and what we do. First things first, it's not a typo! The company name is Evvnt and it's pronounced Event. (We don't blame you if you pronounce it like [marwage](https://www.youtube.com/watch?v=3odMTPuzLwY).)
 
 Our Passion: **Powering Experiences to Connect People**
 
