@@ -11,7 +11,7 @@ Our Passion: **Powering Experiences to Connect People**
 *People Value Social Interaction Through Local Events that Vitalize Communities and Improve Life Quality*
 
 Q: Why haven't I heard of Evvnt?
-A: Today we deliver our software as white labeled. We are on thousands of media sites power event calendars and selling millions of dollars in tickets.
+A: Today we deliver our software as white labeled. We are on thousands of media sites powering event calendars and selling millions of dollars in tickets.
 
 Q: What makes Evvnt different than any other software company out there?
 A: We believe in the following values that we embody every day:
