@@ -24,7 +24,7 @@ A: We believe in the following values that we embody every day:
 * *Customer Focus* - We believe the customer holds the keys to our success and their feedback drives our prioritization
 * *Fun* - We believe that we work to support our lives and that life is too short to not enjoy our time together. This means we make space for having fun. And that no meeting is complete without something funny being said.
 
-While all of our values are important and they make up who we are. The one that truly set's us apart from other software companies is *Quality at Pace*.
+While all of our values are important and make up who we are, the one that truly sets us apart from other software companies is *Quality at Pace*.
 
 What does Quality at Pace mean as a software engineering team? The best way to answer that is to hear from the team.
 
