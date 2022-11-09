@@ -22,7 +22,7 @@ A: We believe in the following values that we embody every day:
 * *Integrity* - What you do when no one else is looking matters.
 * *Constant Improvement* - If we can improve ourselves, how we work, the product, the company a little bit each day we can go to great places.
 * *Customer Focus* - We believe the customer holds the keys to our success and their feedback drives our prioritization
-* *Fun* - We believe that we work to support our live and that life is too short to not enjoy our time together. This means we make space for having fun. And that no meeting is complete without something funny being said.
+* *Fun* - We believe that we work to support our lives and that life is too short to not enjoy our time together. This means we make space for having fun. And that no meeting is complete without something funny being said.
 
 While all of our values are important and they make up who we are. The one that truly set's us apart from other software companies is *Quality at Pace*.
 
