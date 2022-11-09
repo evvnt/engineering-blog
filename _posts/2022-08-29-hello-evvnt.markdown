@@ -37,3 +37,8 @@ What does Quality at Pace mean as a software engineering team? The best way to a
 > self discipline to stay focused then Evvnt might be the right place for you.
 > 
 > -Russell Edens CTO
+
+> To me, quality at pace means buying future agility by taking the time now to _fully_ understand problems, brainstorming an ideal solution (not the quickest!), testing thoroughly against well-understood requirements, and tying up loose ends to meet the true definition of "done". It also means not rubber-stamping pull requests and instead taking the time to dive into the deeper implications of a set of changes.
+> Building on top of a robust foundation by prioritizing quality _over_ pace leads to everything on top of the foundation being built that much quicker and that much sturdier.
+>
+> -Nick Miller, Senior Software Engineer
