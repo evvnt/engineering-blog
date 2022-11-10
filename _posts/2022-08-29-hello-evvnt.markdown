@@ -16,6 +16,9 @@ A: Today we deliver our software as white labeled service. We are on thousands o
 
 Q: What makes Evvnt different from any other software company out there?
 A: We believe in the following values that we embody every day:
+
+#### Values
+
 * *Transparency* - we talk about what we do and why at every level in the company
 * *Respect* - we believe that each and every person deserves respect and we demonstrate it daily.
 * *Ownership* - we believe that a team that owns the company and outcomes is more motivated and makes better decisions.
@@ -24,6 +27,8 @@ A: We believe in the following values that we embody every day:
 * *Constant Improvement* - If we can improve ourselves, how we work, the product, the company a little bit each day we can go to great places.
 * *Customer Focus* - We believe the customer holds the keys to our success and their feedback drives our prioritization
 * *Fun* - We believe that we work to support our lives and that life is too short to not enjoy our time together. This means we make space for having fun. And that no meeting is complete without something funny being said.
+
+#### Quality at Pace
 
 While all of our values are important and make up who we are, the one that truly sets us apart from other software companies is *Quality at Pace*.
 
