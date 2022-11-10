@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Hello Evvnt"
-date:   2022-08-29 15:50:14 -0400
+date:   2022-11-10 00:00:00 -0400
 categories: engineering
 ---
 Welcome to the Evvnt Engineering Blog! This is our hello world introducing Evvnt and what we do.
