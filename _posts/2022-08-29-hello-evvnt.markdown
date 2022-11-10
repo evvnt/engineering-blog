@@ -29,7 +29,7 @@ While all of our values are important and make up who we are, the one that truly
 What does Quality at Pace mean as a software engineering team? The best way to answer that is to hear from the team.
 
 > Quality at Pace means we are a agile team that practices Kanban. We don't do sprints. 
-> I've seem more quality issues from Sprints. The pressure of the deadline is important for pace, but it ofen produces 
+> I've seem more quality issues from Sprints. The pressure of the deadline is important for pace, but it often produces 
 > sweep it under the rug engineering. We consciously want quality. Things are not done until they work as the they should. 
 > This goes for every part of the process. Quality at pace also means we don't talk about deadlines, we talk about priority and order.
 > When something makes it into the development queue, you know it will ship as soon as its possible with quality.
@@ -42,3 +42,10 @@ What does Quality at Pace mean as a software engineering team? The best way to a
 > Building on top of a robust foundation by prioritizing quality _over_ pace leads to everything on top of the foundation being built that much quicker and that much sturdier.
 >
 > -Nick Miller, Senior Software Engineer
+
+> I feel _Quality at Pace_ is a practice shared by all skilled craftsmen, whatever the trade. It means fully understanding the problem and the
+> needs of all stakeholders. It means planning ahead, carefully choosing a solution that satisfies the requirements, but recognizes we can't work 
+> on one thing indefinitely. It means doing it right the first time and building on a solid foundation. It also means prioritizing the work that 
+> will move the product forward and satisfy our long term goals.
+> 
+> -Derek Graham, Senior Software Engineer
