@@ -56,6 +56,12 @@ What does Quality at Pace mean as a software products team? The best way to answ
 > 
 > -Derek Graham, Senior Software Engineer
 
+> It means forgetting about wishful thinking on timelines and instead entrusting the engineering team to take the best route to solve each problem. 
+> We stay away from quick remedies and fast coding of an early-stage startup. Quality at pace summarizes the passion and commitment our team has to
+> build beautiful and clean software that everyone can enjoy. 
+> 
+> -Rhet Prieto, Software Engineer
+
 > For product managers, "Quality at Pace" (QAP) sets Evvnt apart from other companies that use Agile Sprints. 
 > Agile Sprints result in high daily stress levels to deliver products, features, enhancements based on timelines that are projected from sizing epics, stories, tasks, and spikes. 
 > However, more often than not, the sales team usually puts pressure on product managers to "deliver" on customer driven deadlines ASAP. 
