@@ -36,7 +36,7 @@ What does Quality at Pace mean as a software products team? The best way to answ
 
 > Quality at Pace means we are an agile team that practices Kanban. We don't sprint! 
 > I've seem more quality issues from Sprints. The pressure of the deadline is important for pace, but it often produces 
-> sweep it under the rug engineering. We consciously want quality. Things are not done until they work as the they should. 
+> sweep it under the rug engineering. We consciously want quality. Things are not done until they work as they should. 
 > This goes for every part of the process. Quality at pace also means we don't talk about deadlines, we talk about priority and order.
 > When something makes it into the development queue, you know it will ship as soon as its possible with high quality.
 > If you are a great engineer/product manager/tester and are sick of the treadmill of Agile Sprints, and you have the 
@@ -75,3 +75,12 @@ What does Quality at Pace mean as a software products team? The best way to answ
 > This means all functional areas of the company as well as our Customers are informed about our philosophy, which allows us to manage external and internal expectations about software delivery deadlines, thus allowing us all to have fun while delivering high quality software.
 > 
 > -Krishna Venkatraman, VP Product Management
+
+> For me Quality at Pace it's a tester's dream. In sprint based projects often testing time is sacrificied for the sake of meeting deadlines set by either 
+> clients or managers without having a full analysis of what the software might need in the future. Using Quality at Pace philosophy allows Project Managers
+> flexibility to plan what is realistically going to be done based on what is really needed, it gives developers the time to write their best code with future 
+> requirements in mind and not just fulfilling today's needs and getting over with it and with such putting the scalability of the project at risk, and most 
+> importantly for me, it gives testers time to test thoroughly, making sure that this feature that is going to be delivered has the best quality achievable, also 
+> giving developers time to make their best code reduces defects tremendously which at the end it does save time and effort in the future.
+> 
+> -José Aceituno, Quality Assurance Engineer
