@@ -19,13 +19,13 @@ A: We believe in the following values that we embody every day:
 
 #### Values
 
-* *Transparency* - we talk about what we do and why at every level in the company
+* *Transparency* - we talk about what we do and why at every level in the company.
 * *Respect* - we believe that each and every person deserves respect and we demonstrate it daily.
 * *Ownership* - we believe that a team that owns the company and outcomes is more motivated and makes better decisions.
 * *Quality at Pace* - we believe that quality wins over speed and our development philosophy is "To Always Be Shipping" (ABS). We goal is to build great things that are sustainable and compounding.
 * *Integrity* - What you do when no one else is looking matters.
 * *Constant Improvement* - If we can improve ourselves, how we work, the product, the company a little bit each day we can go to great places.
-* *Customer Focus* - We believe the customer holds the keys to our success and their feedback drives our prioritization
+* *Customer Focus* - We believe the customer holds the keys to our success and their feedback drives our prioritization.
 * *Fun* - We believe that we work to support our lives and that life is too short to not enjoy our time together. This means we make space for having fun. And that no meeting is complete without something funny being said.
 
 #### Quality at Pace
