@@ -3,6 +3,7 @@ layout: post
 title:  "Hello Evvnt"
 date:   2022-11-10 00:00:00 -0400
 categories: engineering
+permalink: "/hello-evvnt/"
 ---
 Welcome to the Evvnt Engineering Blog! This is our hello world introducing Evvnt and what we do.
 First things first, it's not a typo! The company name is Evvnt and it's pronounced Event. (We don't blame you if you pronounce it like [marwage](https://www.youtube.com/watch?v=3odMTPuzLwY).)
@@ -42,25 +43,25 @@ What does Quality at Pace mean as a software products team? The best way to answ
 > If you are a great engineer/product manager/tester and are sick of the treadmill of Agile Sprints, and you have the 
 > self discipline to stay focused then Evvnt might be the right place for you.
 > 
-> -Russell Edens, CTO
+> {% avatar rx %} Russell Edens, CTO
 
 > To me, quality at pace means buying future agility by taking the time now to _fully_ understand problems, brainstorming an ideal solution (not the quickest!), testing thoroughly against well-understood requirements, and tying up loose ends to meet the true definition of "done". It also means not rubber-stamping pull requests and instead taking the time to dive into the deeper implications of a set of changes.
 > Building on top of a robust foundation by prioritizing quality _over_ pace leads to everything on top of the foundation being built that much quicker and that much sturdier.
 >
-> -Nick Miller, Senior Software Engineer
+> {% avatar jadefish %} Nick Miller, Senior Software Engineer
 
 > I feel _Quality at Pace_ is a practice shared by all skilled craftsmen, whatever the trade. It means fully understanding the problem and the
 > needs of all stakeholders. It means planning ahead, carefully choosing a solution that satisfies the requirements, but recognizes we can't work 
 > on one thing indefinitely. It means doing it right the first time and building on a solid foundation. It also means prioritizing the work that 
 > will move the product forward and satisfy our long term goals.
 > 
-> -Derek Graham, Senior Software Engineer
+> {% avatar dsgraham %} Derek Graham, Senior Software Engineer
 
 > It means forgetting about wishful thinking on timelines and instead entrusting the engineering team to take the best route to solve each problem. 
 > We stay away from quick remedies and fast coding of an early-stage startup. Quality at pace summarizes the passion and commitment our team has to
 > build beautiful and clean software that everyone can enjoy. 
 > 
-> -Rhet Prieto, Software Engineer
+> {% avatar rhetprieto %} Rhet Prieto, Software Engineer
 
 > For product managers, "Quality at Pace" (QAP) sets Evvnt apart from other companies that use Agile Sprints. 
 > Agile Sprints result in high daily stress levels to deliver products, features, enhancements based on timelines that are projected from sizing epics, stories, tasks, and spikes. 
@@ -74,7 +75,7 @@ What does Quality at Pace mean as a software products team? The best way to answ
 > Evvnt chooses QAP with "Always Be Shipping" (ABS) over POQ. 
 > This means all functional areas of the company as well as our Customers are informed about our philosophy, which allows us to manage external and internal expectations about software delivery deadlines, thus allowing us all to have fun while delivering high quality software.
 > 
-> -Krishna Venkatraman, VP Product Management
+> {% avatar krishnav888 %} Krishna Venkatraman, VP Product Management
 
 > For me Quality at Pace it's a tester's dream. In sprint based projects often testing time is sacrificied for the sake of meeting deadlines set by either 
 > clients or managers without having a full analysis of what the software might need in the future. Using Quality at Pace philosophy allows Project Managers
@@ -83,4 +84,4 @@ What does Quality at Pace mean as a software products team? The best way to answ
 > importantly for me, it gives testers time to test thoroughly, making sure that this feature that is going to be delivered has the best quality achievable, also 
 > giving developers time to make their best code reduces defects tremendously which at the end it does save time and effort in the future.
 > 
-> -José Aceituno, Quality Assurance Engineer
+> {% avatar JAceituno %} José Aceituno, Quality Assurance Engineer
